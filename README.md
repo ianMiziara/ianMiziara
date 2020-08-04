@@ -1,4 +1,6 @@
+<img width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTbS93qFWuLhr6wo7tEszLp3ylWnSSE8iHGQA&usqp=CAU">
 
+# Ian Pires Miziara
 
 <br/>:purple_heart: &nbsp; Sobre mim -> Meu nome é Ian Pires Miziara, tenho 18 anos. Moro numa cidade mediana no estado do Rio de Janeiro, chamada Teresópolis, tenho muitos objetivos na vida, e a programação é a ferramenta que eu percebi que iria me auxiliar a alcança-los, por isso também acabei percebendo o quão incrível é você ter em suas mãos o poder de criar qualquer aplicação.
 
