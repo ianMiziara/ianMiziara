@@ -4,8 +4,6 @@
 
 <br/>:purple_heart: &nbsp; Sobre mim -> Meu nome é Ian Pires Miziara, tenho 18 anos. Moro numa cidade mediana no estado do Rio de Janeiro, chamada Teresópolis, tenho muitos objetivos na vida, e a programação é a ferramenta que eu percebi que iria me auxiliar a alcança-los, por isso também acabei percebendo o quão incrível é você ter em suas mãos o poder de criar qualquer aplicação.
 
-<br/>🖖 Fato nerd -> Narutinho sola o Goku. E se me contrariar vou desenvolver um game só pra te provar isso, não sei se vai ficar legal um jogo cheio de discurso no jutsu... provavelmente o seria... PASTOR NARUTO!!!
-
 <br/>:computer: &nbsp; Fato profissional -> Sinto uma imensa vontade de trabalhar com I.A e Machine Learning. Espero atingir esses, que são dois dos meus principais objetivos. 
 
 <br/>:blush: &nbsp; -> Atualmente estou aprendendo machine learning, deep learning, neural networks, banco de dados e SQL, big data.
