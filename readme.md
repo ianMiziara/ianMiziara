@@ -115,8 +115,8 @@ Meus recursos favoritos para aprendizado incluem plataformas como Alura, Udemy e
   <details>
     <summary>✨ Surpresa! Clique aqui</summary>
     <br>
-    <p><i>"O código é como poesia - não basta funcionar, tem que ser elegante."</i></p>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+    <p><i>"."</i></p>
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media1.tenor.com/m/PavjCNDkc6EAAAAd/american-dragon-jake-long.gif)" width="300"/>
   </details>
 </div>
 
