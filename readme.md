@@ -113,7 +113,7 @@ Meus recursos favoritos para aprendizado incluem plataformas como Alura, Udemy e
   <details>
     <summary>✨ Surpresa! Clique aqui</summary>
     <br>
-    <p><i>"Transformando bugs em cinzas desde o primeiro commit."</i></p>
+    <p><i>Went full dragon mode... just to handle that stubborn bug.</i></p>
     <img src="https://media1.tenor.com/m/PavjCNDkc6EAAAAd/american-dragon-jake-long.gif" width="300"/>
   </details>
 </div>
