@@ -111,7 +111,7 @@ Meus recursos favoritos para aprendizado incluem plataformas como Alura, Udemy e
 ---
 <div align="center">
   <details>
-    <summary>✨ Surpresa! Clique aqui</summary>
+    <summary>💥 BAAAM! 😱👹👾</summary>
     <br>
     <p><i>Went full dragon mode... just to handle that stubborn bug.</i></p>
     <img src="https://media1.tenor.com/m/PavjCNDkc6EAAAAd/american-dragon-jake-long.gif" width="300"/>
