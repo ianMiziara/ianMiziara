@@ -108,16 +108,12 @@ Meus recursos favoritos para aprendizado incluem plataformas como Alura, Udemy e
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521975690908)
 
 </div>
-
 ---
-
 <div align="center">
   <details>
     <summary>✨ Surpresa! Clique aqui</summary>
     <br>
-    <p><i>"."</i></p>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media1.tenor.com/m/PavjCNDkc6EAAAAd/american-dragon-jake-long.gif)" width="300"/>
+    <p><i>"Transformando bugs em cinzas desde o primeiro commit."</i></p>
+    <img src="https://media1.tenor.com/m/PavjCNDkc6EAAAAd/american-dragon-jake-long.gif" width="300"/>
   </details>
 </div>
-
-<!-- Substitua os links dos projetos e redes sociais pelos seus reais quando for implementar -->
