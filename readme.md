@@ -83,20 +83,6 @@ Como **Web Developer na WakeUp Estratégias Digitais**, desenvolvi diversos site
 
 Atualmente, como **Consultor de TI na Supri Service Tecnologia**, trabalho com consultoria em TI, análise de dados e gestão de vendas, focando na otimização de processos e qualificação do atendimento.
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-<!-- Substitua pelos seus projetos reais -->
-<a href="https://github.com/ianmiziara/projeto-exemplo-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianmiziara&repo=projeto-exemplo-1&theme=radical" />
-</a>
-<a href="https://github.com/ianmiziara/projeto-exemplo-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ianmiziara&repo=projeto-exemplo-2&theme=radical" />
-</a>
-
-</div>
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
